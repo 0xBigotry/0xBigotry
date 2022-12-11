@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Solidity, zkEVM
 
 Highly recommended resources:
-<Mastering Ethereum>
+
+Mastering Ethereum
 https://github.com/0xBigotry/ethereumbook
 
 <!---
