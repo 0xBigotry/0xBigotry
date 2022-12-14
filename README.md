@@ -4,8 +4,21 @@
 
 Highly recommended resources:
 
+----Books----
+
 Mastering Ethereum
 https://github.com/0xBigotry/ethereumbook
+
+----Analysis----
+BendDao analysis
+https://github.com/0xBigotry/BendDAO-analysis
+
+Seaport analysis
+https://github.com/0xBigotry/seaport-analysis
+
+Blur analysis
+https://github.com/0xBigotry/blur-analysis
+
 
 
 Interesting blogs:
