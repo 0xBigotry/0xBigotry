@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web3, Defi, smart contract development
 -     Tech Stack: Solidity, JavaScript, CSS, Html
 - 🌱 I’m currently learning zkEVM
+- 💬 Contact me on Twitter @jingzhou666
 
 Highly recommended resources:
 
